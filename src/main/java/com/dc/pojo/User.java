@@ -1,7 +1,8 @@
 package com.dc.pojo;
 
 
-@data
+@Data
+@NoArgsConstructor
 public class User {
     private Integer id;
 
