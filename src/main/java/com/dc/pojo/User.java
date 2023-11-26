@@ -3,7 +3,7 @@ package com.dc.pojo;
 
 @Data
 @NoArgsConstructor
-@AllArgsConstructor
+@AllArgConstructor
 public class User {
     private Integer id;
 
