@@ -1,5 +1,7 @@
 package com.dc.pojo;
 
+
+@data
 public class User {
     private Integer id;
 
