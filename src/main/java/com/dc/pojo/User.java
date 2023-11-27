@@ -1,7 +1,5 @@
 package com.dc.pojo;
 
-@get
-@set
 @Data
 @NoArgsConstructor
 @AllArgConstructor
